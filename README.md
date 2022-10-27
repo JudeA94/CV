@@ -67,7 +67,7 @@ A 16-week intensive development bootcamp, where I have  :
 
 #### University of Bristol (September 12 to June 16)
 
-- MsSci in Mathematics 2:1
+- MSci in Mathematics 2:1
 
 #### University College London (September 17 to June 18)
 
