@@ -1,7 +1,5 @@
 ## Jude Ashworth
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
 After teaching maths for four years and combat sports for even more, I wanted a to become a learner again. I really enjoy trying to improve things, wether that be peoples' skills, recipes or whatever project I am working on. I have spent years trying to teach students to problem solve mathematically, which I loved and I believe have helped me have a better problem solving mindset. However, the times I have enjoyed most are when I have been the one working to solve the problems. Working as a teacher really helped me appreciate working as a team to work towards a common goal and I was fortunate to have a great team to do this with. I am now looking for different problems to solve in the world of tech, which started when joining Makers Academy.
 
 ------------------------Put stuff in here about time at makers-----------------
