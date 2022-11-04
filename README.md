@@ -13,15 +13,15 @@ After teaching maths for four years and combat sports for even more, I wanted a 
 
 ## Work Experience
 
-**Holloway School** (September 16 to July 17)  
+**Holloway School** (Sept 2016 to July 2017)  
 Mathematics teaching assistant
 
 Full-time tutor and teaching assistant at Holloway School, working with small groups of students or as an aid to the teacher in the classroom. Responsible for teaching booster classes to students in small groups to help them in their GCSEs.
 
-**Woodhouse College** (September 18 to August 22)  
-Teacher of mathematics
+**Woodhouse College** (Sept 2018 to Aug 2022)  
+Teacher of Mathematics
 
-Full-time teacher and pastoral tutor at Woodhouse College, working with 16-18 year old A-level students. Responsible for teaching A-level maths and further maths, guiding students through the UCAS process and delivering the pastoral program. I also co-ran the booster catch up program to help struggling students and boost high achieving students to achieve the grades they needed for their future plans.
+Full-time teacher and pastoral tutor at Woodhouse College, working with 16-18 year old A-level students. Responsible for teaching A-level Maths and Further Maths, guiding students through the UCAS process and delivering the pastoral program. I also co-ran the booster catch up program to help struggling students post-covid.
 
 ## Skills
 
@@ -55,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (October 22 to February 23)
+#### Makers Academy (Oct 2022 to Feb 2023)
 A 16-week intensive development bootcamp, where I have  :
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
@@ -65,11 +65,11 @@ A 16-week intensive development bootcamp, where I have  :
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol (September 12 to June 16)
+#### University of Bristol (Sept 2012 to June 2016)
 
 - MSci in Mathematics 2:1
 
-#### University College London (September 17 to June 18)
+#### University College London (Sept 2017 to June 2018)
 
 - Post graduate certificate in education (PGCE) in mathematics
 
@@ -79,4 +79,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-I really enjoy being active as it helps me think clearly feel great. Whilst at university I ran the muay thai club, teaching classes and organising fight nights. I also fought at an amateur level in my first two years and semi professionally in my third year. Continually training and improving my skillset allowed me to get experience working as an assistant coach, in both muay thai and boxing, in various gyms both in Bristol and London. I eventually also became the striking coach for a small mixed martial arts club, even cornering and helping a fighter at the professional level. I've recently started indoor rock climbing for a new challenge. I also love going to gigs and cooking, especially gradually improving a recipe over time until it's as good as I can make it. It's safe to say over the lockdowns I ate a lot of homemade pizza, but I think I make a good one now.
+I really enjoy being active as it helps me think clearly and feel great. Over the past ten years I have been heavily involved in combat sports. I have fought up to a semi-professional level in muay thai and competed in several Brazillian Jiu Jitsu tournaments. I have also coached, and even cornered fighters up to a professional level. I've recently started indoor rock climbing as a new challenge. I also love going to gigs and cooking, especially gradually improving a recipe over time until it's as good as I can make it. It's safe to say over the lockdowns I ate a lot of homemade pizza, but I think I make a good one now.
