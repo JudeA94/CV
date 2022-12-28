@@ -10,6 +10,9 @@ After teaching maths for four years and combat sports for even more, I wanted a 
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+| [MakersBnb](https://github.com/atcq9876/engineering-project-1) (Airbnb clone) | A webapp to recreate the basic functionality of Airbnb. (Group project) | Ruby, Sinatra, Postgresql, html5, CSS, agile working |
+| [Chitter](https://github.com/JudeA94/chitter-challenge) (twitter clone)| A webapp to recreate the basic functionality of twitter. | Ruby, Sinatra, Postgresql, html5, CSS |
 
 ## Work Experience
 
