@@ -6,15 +6,14 @@ I think one of my strong points is being able to get a task done efficiently. I 
 
 ## Technologies used
 
-Web Development Frameworks: Ruby, Sinatra, JavaScript, React, Express, Node.js
-Databases: SQL (PostgreSQL), MongoDB, Mongoose
-Testing Frameworks: Jest, Rspec, Cypress
-Hosting: Heroku, Render
-Version Control: Git, Github
-Other Tools: Postman, TablePlus, Excalidraw
+- Web Development Frameworks: Ruby, Sinatra, JavaScript, React, Express, Node.js
+- Databases: SQL (PostgreSQL), MongoDB, Mongoose
+- Testing Frameworks: Jest, Rspec, Cypress
+- Hosting: Heroku, Render
+- Version Control: Git, Github
+- Other Tools: Postman, TablePlus, Excalidraw
 
 ## Projects
-
 
 
 | Name                         | Description       | Tech/tools        |
