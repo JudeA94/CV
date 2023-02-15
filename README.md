@@ -23,7 +23,7 @@ I think one of my strong points is being able to get a task done efficiently. I 
 | [**MAKERSBNB**](https://github.com/atcq9876/engineering-project-1) | An Airbnb clone, allowing users to create spaces that can be requested, accepted, and booked. It also allows owners and renters to chat once the booking is accepted. | Ruby, Rspec, Sinatra, HTML, CSS, PostgreSQL, SQL|
  | [**GAME OF LIFE**](https://github.com/JudeA94/game-of-life) | A frontend app with an adjustable game board for John Conway’s game of life. Two versions of the game can be played, depending on how the user wants to deal with the edge of the board. Click [here](https://game-of-life1.herokuapp.com/) to go to hosted site. | React, Javascript, Jest |
  | [**NEWS APP**](https://github.com/JudeA94/news-app) | A model view controller project in javascript, which allows a user to search for news articles using the guardian’s public api. | Javascript, HTML, CSS |
-
+For more, please see my [GitHub repo list](https://github.com/JudeA94).
 ## Work Experience
 
 **Holloway School** (Sept 2016 to July 2017)  
