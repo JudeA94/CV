@@ -20,8 +20,7 @@ I think one of my strong points is being able to get a task done efficiently. I 
 | ---------------------------- | ----------------- | ----------------- |
 | [**GET HOME SAFE APP**](https://github.com/jillwones/GetHomeSafe) | A cross platform mobile app to to help users feel safer when walking alone at night. | React Native, MongoDB, Express, Node, Javascript, Jest |
 | [**ACEBOOK**](https://github.com/JudeA94/acebook-Charisma) | A Facebook clone group project with some of the basic functionality of the site. | React, MongoDB, Express, Node, Javascript, Jest, Cypress |
-| [**MAKERSBNB**](https://github.com/atcq9876/engineering-project-1) | An Airbnb clone, allowing users to create spaces that can be requested, accepted, and booked. It also allows owners and renters to chat once the booking is accepted.
- | Ruby, Rspec, Sinatra, HTML, CSS, PostgreSQL, SQL|
+| [**MAKERSBNB**](https://github.com/atcq9876/engineering-project-1) | An Airbnb clone, allowing users to create spaces that can be requested, accepted, and booked. It also allows owners and renters to chat once the booking is accepted. | Ruby, Rspec, Sinatra, HTML, CSS, PostgreSQL, SQL|
  | [**GAME OF LIFE**](https://github.com/JudeA94/game-of-life) | A frontend app with an adjustable game board for John Conway’s game of life. Two versions of the game can be played, depending on how the user wants to deal with the edge of the board. Click [here](https://game-of-life1.herokuapp.com/) to go to hosted site. | React, Javascript, Jest |
  | [**NEWS APP**](https://github.com/JudeA94/news-app) | A model view controller project in javascript, which allows a user to search for news articles using the guardian’s public api. | Javascript, HTML, CSS |
 
@@ -60,7 +59,7 @@ Post covid, I co ran our colleges catch up scheme. A colleage and I created the 
 ## Education
 
 #### Makers Academy (Oct 2022 to Feb 2023)
-A 16-week intensive development bootcamp. Curriculum can be found [here](https://makers.tech/curriculum/)
+- A 16-week intensive development bootcamp. Curriculum can be found [here](https://makers.tech/curriculum/)
 
 #### University of Bristol (Sept 2012 to June 2016)
 - MSci in Mathematics 2:1
