@@ -24,7 +24,7 @@ I think one of my strong points is being able to get a task done efficiently. I 
  | [**GAME OF LIFE**](https://github.com/JudeA94/game-of-life) | A frontend app with an adjustable game board for John Conway’s game of life. Two versions of the game can be played, depending on how the user wants to deal with the edge of the board. Click [here](https://game-of-life1.herokuapp.com/) to go to hosted site. | React, Javascript, Jest |
  | [**NEWS APP**](https://github.com/JudeA94/news-app) | A model view controller project in javascript, which allows a user to search for news articles using the guardian’s public api. | Javascript, HTML, CSS |    
  
-For more, please see my [GitHub repo list](https://github.com/JudeA94).
+For more, please see my [GitHub repo list](https://github.com/JudeA94?tab=repositories).
 
 ## Work Experience
 
