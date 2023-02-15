@@ -18,11 +18,12 @@ I think one of my strong points is being able to get a task done efficiently. I 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-| [Weather App](https://github.com/JudeA94/weather-app) | A webapp with a search function, giving weather data for a searched location. | Ruby, Sinatra, OpenWeatherMap API, unsplash API |
-| [MakersBnb](https://github.com/atcq9876/engineering-project-1) (Airbnb clone) | A webapp to recreate the basic functionality of Airbnb. (Group project) | Ruby, Sinatra, Postgresql, html5, CSS, agile working |
-| [Chitter](https://github.com/JudeA94/chitter-challenge) (twitter clone)| A webapp to recreate the basic functionality of twitter. | Ruby, Sinatra, Postgresql, html5, CSS |
+| [**GET HOME SAFE APP**](https://github.com/jillwones/GetHomeSafe) | A cross platform mobile app to to help users feel safer when walking alone at night. | React Native, MongoDB, Express, Node, Javascript, Jest |
+| [**ACEBOOK**](https://github.com/JudeA94/acebook-Charisma) | A Facebook clone group project with some of the basic functionality of the site. | React, MongoDB, Express, Node, Javascript, Jest, Cypress |
+| [**MAKERSBNB**](https://github.com/atcq9876/engineering-project-1) | An Airbnb clone, allowing users to create spaces that can be requested, accepted, and booked. It also allows owners and renters to chat once the booking is accepted.
+ | Ruby, Rspec, Sinatra, HTML, CSS, PostgreSQL, SQL|
+ | [**GAME OF LIFE**](https://github.com/JudeA94/game-of-life) | A frontend app with an adjustable game board for John Conway’s game of life. Two versions of the game can be played, depending on how the user wants to deal with the edge of the board. Click [here](https://game-of-life1.herokuapp.com/) to go to hosted site. | React, Javascript, Jest |
+ | [**NEWS APP**](https://github.com/JudeA94/news-app) | A model view controller project in javascript, which allows a user to search for news articles using the guardian’s public api. | Javascript, HTML, CSS |
 
 ## Work Experience
 
