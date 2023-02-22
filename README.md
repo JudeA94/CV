@@ -56,7 +56,7 @@ I have always been a fast learner. I competed in my first Brazilian jiu-jitsu to
 
 
 #### Empathy and teamwork ####
-Post covid, I co ran our colleges catch up scheme. A colleague and I created the programme where students mentored each other and some also recieved extra tuition from me. The scheme was aimed at helping student who really struggled during the periods when the college was closed due to the pandemic. The programme was massively over subscribed as the students found it so helpful. I also have lots of experience helping, coaching and cornering my team mates when I trained and competed in varous combat sports.
+Post covid, I co ran our colleges catch up scheme. A colleague and I created the programme where students mentored each other and some also recieved extra tuition from me. The scheme was aimed at helping student who really struggled during the periods when the college was closed due to the pandemic. The programme was massively over subscribed as the students found it so helpful. I also have lots of experience helping, coaching and cornering my team mates when I trained and competed in various combat sports.
 
 ## Education
 
