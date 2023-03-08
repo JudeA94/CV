@@ -31,7 +31,7 @@ For more, please see my [GitHub repo list](https://github.com/JudeA94?tab=reposi
 **Holloway School** (Sept 2016 to July 2017)  
 Mathematics teaching assistant
 
-- As a maths teaching assistant at Holloway School, I was responsible for:
+As a maths teaching assistant at Holloway School, I was responsible for:
 - Teaching small classes of up to 8 GCSE students
 - Assisting in lessons
 - After school tuition
